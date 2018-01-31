@@ -1,0 +1,17 @@
+<resources>
+    <string name="error_decrypting">We have not been able to decrypt your credentials, please verify your PIN is correct</string>
+    <string name="enter_your_pin_message">Please enter your PIN to decrypt your credentials</string>
+    <string name="credentials_saved_successful">Credentials saved successful</string>
+    <string name="set_up_your_credentials">Set up your credentials</string>
+    <string name="invalid_pin">Please enter a PIN of 4 characters</string>
+    <string name="invalid_secret">Please enter your Secret API</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="invalid_key">Please enter your Key API</string>
+    <string name="enter_your_pin">Enter your PIN</string>
+    <string name="pin_4_digits">PIN 4 characters</string>
+    <string name="secret">Secret API</string>
+    <string name="set_up">Set up</string>
+    <string name="cancel">Cancel</string>
+    <string name="key">Key API</string>
+    <string name="pin">PIN</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="error_decrypting">No hemos podido revertir la encriptación, por favor verifica tu PIN</string>
+    <string name="enter_your_pin_message">Por favor ingresa tu PIN para revertir la encriptación</string>
+    <string name="credentials_saved_successful">Credenciales guardadas exitosamente</string>
+    <string name="set_up_your_credentials">Establece tus credenciles</string>
+    <string name="invalid_pin">Por favor ingresa un PIN de 4 digitos</string>
+    <string name="invalid_secret">Por favor ingresa tu API</string>
+    <string name="invalid_credentials">Credenciales invalidas</string>
+    <string name="invalid_key">Por favor ingresa tu Key API</string>
+    <string name="enter_your_pin">Ingresa tu PIN</string>
+    <string name="pin_4_digits">PIN 4 digitos</string>
+    <string name="secret">Secreto API</string>
+    <string name="set_up">Set up</string>
+    <string name="cancel">Cancelar</string>
+    <string name="key">Key API</string>
+    <string name="pin">PIN</string>
+</resources>
